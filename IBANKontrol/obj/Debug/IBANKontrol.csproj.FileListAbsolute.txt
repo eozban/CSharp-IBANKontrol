@@ -1,0 +1,18 @@
+c:\users\islem\documents\visual studio 2013\Projects\IBANKontrol\IBANKontrol\bin\Debug\IBANKontrol.exe.config
+c:\users\islem\documents\visual studio 2013\Projects\IBANKontrol\IBANKontrol\obj\Debug\IBANKontrol.csprojResolveAssemblyReference.cache
+c:\users\islem\documents\visual studio 2013\Projects\IBANKontrol\IBANKontrol\obj\Debug\IBANKontrol.Properties.Resources.resources
+c:\users\islem\documents\visual studio 2013\Projects\IBANKontrol\IBANKontrol\obj\Debug\IBANKontrol.csproj.GenerateResource.Cache
+c:\users\islem\documents\visual studio 2013\Projects\IBANKontrol\IBANKontrol\bin\Debug\IBANKontrol.exe
+c:\users\islem\documents\visual studio 2013\Projects\IBANKontrol\IBANKontrol\bin\Debug\IBANKontrol.pdb
+c:\users\islem\documents\visual studio 2013\Projects\IBANKontrol\IBANKontrol\obj\Debug\IBANKontrol.exe
+c:\users\islem\documents\visual studio 2013\Projects\IBANKontrol\IBANKontrol\obj\Debug\IBANKontrol.pdb
+c:\users\islem\documents\visual studio 2013\Projects\IBANKontrol\IBANKontrol\obj\Debug\IBANKontrol.Form1.resources
+C:\Users\Islem\Source\Repos\csharp\IBANKontrol\IBANKontrol\bin\Debug\IBANKontrol.exe.config
+C:\Users\Islem\Source\Repos\csharp\IBANKontrol\IBANKontrol\obj\Debug\IBANKontrol.exe
+C:\Users\Islem\Source\Repos\csharp\IBANKontrol\IBANKontrol\obj\Debug\IBANKontrol.pdb
+C:\Users\Islem\Source\Repos\csharp\IBANKontrol\IBANKontrol\bin\Debug\IBANKontrol.exe
+C:\Users\Islem\Source\Repos\csharp\IBANKontrol\IBANKontrol\bin\Debug\IBANKontrol.pdb
+C:\Users\Islem\Source\Repos\csharp\IBANKontrol\IBANKontrol\obj\Debug\IBANKontrol.csprojResolveAssemblyReference.cache
+C:\Users\Islem\Source\Repos\csharp\IBANKontrol\IBANKontrol\obj\Debug\IBANKontrol.Form1.resources
+C:\Users\Islem\Source\Repos\csharp\IBANKontrol\IBANKontrol\obj\Debug\IBANKontrol.Properties.Resources.resources
+C:\Users\Islem\Source\Repos\csharp\IBANKontrol\IBANKontrol\obj\Debug\IBANKontrol.csproj.GenerateResource.Cache
